@@ -3,3 +3,45 @@
   padding: 0;
   font-family: "Poppins", sans-serif;
 }
+h1 {
+  font-size: 50px;
+}
+.name-highlight {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding: 2%;
+}
+.half-width img {
+  width: 100%;
+}
+.margins {
+  margin-top: 150px;
+}
+.link-button {
+  color: white;
+  text-decoration: none;
+  font-weight: 800;
+  background-image: linear-gradient(180deg, tomato, lightsalmon);
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+
+section {
+  height: 600px;
+  margin-bottom: 100px;
+}
+.second-banner {
+  background-image: url("images/second-banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.position {
+  margin-top: 165px;
+  /* display: flex;
+  flex-flow: row wrap;
+  align-content: flex-end; */
+}
